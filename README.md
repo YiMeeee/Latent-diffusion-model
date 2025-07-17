@@ -2,6 +2,7 @@
 # CIFAR-100 Latent Diffusion Model (LDM)
 
 本项目实现了一个基于CIFAR-100数据集的Latent Diffusion Model (LDM)。项目包含两个主要部分：变分自编码器（VAE）和潜在扩散模型（LDM）。
+在我的理解上
 
 ## 项目结构
 
